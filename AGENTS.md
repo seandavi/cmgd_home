@@ -18,7 +18,7 @@ Shared skills: `.claude/skills/` (`.agents/skills` links to it for pi/Codex).
   Clone from https://github.com/waldronlab/curatedMetagenomicDataCuration if missing. Owned by the Waldron lab: propose changes as PRs.
 - metacurator (reproducible metadata curation from publications): ../metacurator.
   Clone from https://github.com/seandavi/metacurator if missing.
-- BugSigDB web app (taxon/study pages, Cloud Run; reads the bsdb Cloud SQL db): ../bugsigdb-app.
+- BugSigDB taxon app (REST + MCP over BugSigDB and bugphyzz exports; POC at bugsigdb-poc.cancerdatasci.org): ../bugsigdb-app.
   Clone from https://github.com/seandavi/bugsigdb-app if missing. Its README has database access.
 - Infrastructure (private): ../monode. Only infrastructure/terraform/apps/cmgd
   (DNS, R2) and projects/dags (cmgd assets) concern cMD.

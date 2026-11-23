@@ -1,0 +1,14 @@
+study_key	cohort	bioproject	pmid	doi	population	neuro_outcome	notes
+gains	GAINS (UMass)	PRJNA1446836		10.1080/19490976.2026.2676162	older adults HC/MCI/AD	ADAS-Cog-13, memory and executive-function z-scores every 90 days	may include oral samples; filter on env_medium
+elabe	eLABE (WashU)	PRJNA911205	42913303		infants 4-36 mo	Bayley-III, ITSEA, PAPA	project also holds maternal and Warner 2023 samples
+resonance	RESONANCE (ECHO)	PRJNA695570	38134274	10.1126/sciadv.adi0497	children 0-12 y	Mullen, Bayley, WPPSI-4, WISC-V; MRI volumes	project also holds mothers
+asu_mtt	ASU microbiota transfer therapy (NCT02504554)	PRJNA782533	36362265		children with ASD + TD controls + donors	CARS, ABC, SRS, VABS-II, PGI-III	baseline, 10 weeks, 2 years
+haran_nh_ad	UMass nursing-home AD cohort	PRJNA529586	31064831		nursing-home residents	dementia diagnosis	day-coded repeated stool
+m4efad	M4EFaD Bangladesh	PRJNA1087376	39773949		12-month-olds, MAM vs well-nourished	Bayley-4, Wolke, EEG	one stool timepoint in public data
+nhbcs	New Hampshire Birth Cohort	PRJNA296814	32968156		birth cohort	SRS-2 at 3 y (not public)	WGS only at 6 wk and 1 y; 16S runs excluded
+fmt_pd_finland	FMT-PD trial (Finland)	PRJEB68317	39073834		Parkinson disease, FMT vs placebo	MDS-UPDRS	visit in sample alias
+kd_epilepsy_a	Ketogenic diet, pediatric epilepsy (Stockholm)	PRJEB28847			children with drug-resistant epilepsy	seizure response	Lindefeldt 2019
+kd_epilepsy_b	Ketogenic diet, pediatric epilepsy (Stockholm)	PRJEB49521			children with drug-resistant epilepsy	seizure response	Dahlin 2024 (PMC11570732)
+ms_onset_turin	MS at onset (Italy)	PRJNA1245671	42700718		treatment-naive MS + healthy donors	EDSS, MRI activity over 1 y	
+khula	Khula (Cape Town)	PRJNA1128723	39809768		infants + mothers	neurodevelopment (no public linkage)	
+ferreiro_preclinical_ad	Knight ADRC preclinical AD	PRJNA798058	37315112		cognitively normal older adults	amyloid/tau status, CDR	cross-sectional; follow-up announced

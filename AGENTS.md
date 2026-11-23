@@ -21,6 +21,11 @@ Shared skills: `.claude/skills/` (`.agents/skills` links to it for pi/Codex).
 - Infrastructure (private): ../monode. Only infrastructure/terraform/apps/cmgd
   (DNS, R2) and projects/dags (cmgd assets) concern cMD.
 
+## Data here
+
+- data/longitudinal-neuro/: candidate longitudinal neuro cohorts (runs, readsets, specimens,
+  per-subject observations). Read its README for the license split and known issues.
+
 ## Working across repos
 
 - Each repo is cloned once; features get worktrees inside that clone.
